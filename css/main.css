@@ -1,9 +1,24 @@
 
 #header {
   text-align: center;
+  font-variant: small-caps;
 }
 
-.centerdiv
-{
-     margin: 0 auto;
+
+#navigation {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
+#tophr {
+  margin-top: -5px;
+}
+
+#about {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.paragraph {
+  text-indent: 50px;
 }
