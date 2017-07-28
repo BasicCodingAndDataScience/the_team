@@ -1,5 +1,5 @@
 
-#header {
+.header {
   text-align: center;
   font-variant: small-caps;
 }
@@ -8,6 +8,10 @@
 #navigation {
   margin-top: -10px;
   margin-bottom: 10px;
+  position: sticky;
+  top: 0px;
+  width: 100%;
+  background-color: white;
 }
 
 #tophr {
@@ -21,4 +25,29 @@
 
 .paragraph {
   text-indent: 50px;
+}
+
+.inlineblock {
+  display: inline-block;
+  length: 800px;
+  width: 400px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#image1jpg {
+
+  length: 800px;
+  width: 400px;
+
+}
+
+#image2jpg {
+  length: 800px;
+  width: 400px;
+}
+
+#image3jpg {
+  length: 800px;
+  width: 400px;
 }
