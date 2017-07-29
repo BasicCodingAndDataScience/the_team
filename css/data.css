@@ -1,0 +1,10 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
+@import 'https://fonts.googleapis.com/css?family=Lato:400';
+
+#myChart a {
+  display: none;
+}
+
+.zc-ref {
+  display: none;
+}
