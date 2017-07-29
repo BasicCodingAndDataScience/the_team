@@ -29,7 +29,7 @@ var myConfig =
                     "text": "Year",
                 },
                 "minor-ticks": 0,
-                "thousands-separator": ","
+                "thousands-separator": ""
             },
             "crosshair-x": {
                 "line-color": "#efefef",
