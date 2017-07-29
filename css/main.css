@@ -56,6 +56,11 @@
   width: 400px;
 }
 
+#image4jpg {
+  length: 800px;
+  width: 400px;
+}
+
 body { padding-top: 70px; }
 
 #thisisanid {
